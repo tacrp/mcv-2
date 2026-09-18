@@ -1,0 +1,6 @@
+{
+  "title": "Military Conflict: Vietnam - Part 2: Western",
+  "type": "weapon",
+  "tags": ["realism", "fun"],
+  "ignore": ["work/*", "*.md", "icon*.png", "icon*.jpg", ".git/*", ".git*", "models/*.sw.vtx", "models/*.360.vtx", "models/*.xbox.vtx"]
+}
