@@ -16,6 +16,7 @@ SWEP.Slot = 4
 
 SWEP.ViewModel = "models/weapons/mcv/v_m18.mdl"
 SWEP.WorldModel = "models/weapons/mcv/w_m18.mdl"
+SWEP.ModelSkin = 7 // GAS CN-DM variant used by the game's M6A1 script.
 SWEP.MovementPoseWalk = 159
 SWEP.MovementPoseSprint = 258
 SWEP.MovementPoseSighted = 159
@@ -24,7 +25,7 @@ SWEP.ThrowEntity = "mcv_grenade_gas"
 SWEP.FuseModes = {2.5, 5}
 SWEP.HasUnderhand = true
 
-SWEP.ExplosionDamage = 20
+SWEP.ExplosionDamage = 125
 SWEP.ExplosionRadius = 500
 
 SWEP.Primary.Ammo = "mcv_grenade"
