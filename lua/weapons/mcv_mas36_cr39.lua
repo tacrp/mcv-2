@@ -11,7 +11,7 @@ SWEP.PrintName = "MAS-36 CR39 Para"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "France"
 SWEP.SubCategory = "Bolt-Action Rifles"
-SWEP.Caliber = "7.62x51mm"
+SWEP.Caliber = "7.5x54mm"
 
 SWEP.Slot = 3
 
@@ -88,7 +88,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 3
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "357"
 SWEP.Primary.ClipSize = 5
 SWEP.Primary.Chamber = 0
 SWEP.Primary.DefaultClip = 40
@@ -153,3 +153,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_rifle_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 854 // m/s, original game stat

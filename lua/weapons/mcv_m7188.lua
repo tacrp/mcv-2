@@ -11,7 +11,7 @@ SWEP.PrintName = "Remington M7188"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "United States of America"
 SWEP.SubCategory = "Shotguns"
-SWEP.Caliber = "12 Gauge Shell"
+SWEP.Caliber = "12 Gauge"
 
 SWEP.Slot = 2
 SWEP.HoldType = "shotgun"
@@ -155,3 +155,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_shotgun_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 403 // m/s, original game stat

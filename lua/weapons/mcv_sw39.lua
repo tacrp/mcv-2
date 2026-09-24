@@ -164,3 +164,5 @@ SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 2
 
 SWEP.IconOverride = "entities/mcv_mk22.png"
+
+SWEP.MuzzleVelocity = 350 // m/s, original game stat

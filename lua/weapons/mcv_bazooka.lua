@@ -48,7 +48,8 @@ SWEP.LastShotAnimation = false
 SWEP.HasEmptyReload = false
 SWEP.NoEjectOnShoot = true
 SWEP.ShootEntity = "mcv_proj_bazooka"
-SWEP.ShootEntityForce = 5000
+SWEP.ShootEntityForce = 82 / 0.0254 // M9 / 2.36-inch, not the M20 Super Bazooka.
+SWEP.RocketGravity = 9.80665 / 0.0254
 SWEP.AmmoPerShot = 1
 
 // View slide from recoil

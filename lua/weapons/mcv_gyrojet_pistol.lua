@@ -11,7 +11,7 @@ SWEP.PrintName = "Gyrojet Pistol"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "United States of America"
 SWEP.SubCategory = "Pistols"
-SWEP.Caliber = ".45 ACP"
+SWEP.Caliber = "13 mm Gyrojet rocket"
 
 SWEP.Slot = 1
 SWEP.HoldType = "pistol"
@@ -159,3 +159,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_gyrojet_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 403 // m/s, original game stat

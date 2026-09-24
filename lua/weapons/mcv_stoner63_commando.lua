@@ -105,7 +105,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 10.6
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "smg1"
 SWEP.Primary.ClipSize = 150
 SWEP.Primary.Chamber = 0
 SWEP.Primary.DefaultClip = 150

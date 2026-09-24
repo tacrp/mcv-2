@@ -11,7 +11,7 @@ SWEP.PrintName = "MAS-36/51"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "France"
 SWEP.SubCategory = "Bolt-Action Rifles"
-SWEP.Caliber = "7.62x51mm"
+SWEP.Caliber = "7.5x54mm"
 
 SWEP.Slot = 3
 
@@ -90,7 +90,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 3.72
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "357"
 SWEP.Primary.ClipSize = 5
 SWEP.Primary.Chamber = 0
 SWEP.Primary.DefaultClip = 40
@@ -161,3 +161,5 @@ SWEP.Secondary.Automatic = true
 SWEP.Secondary.ClipSize = 1
 SWEP.Secondary.Ammo = "smg1_grenade"
 SWEP.Secondary.DefaultClip = 1
+
+SWEP.MuzzleVelocity = 854 // m/s, original game stat

@@ -1,4 +1,4 @@
-SWEP.Base = "mcv_base"
+SWEP.Base = "mcv_m79_base"
 
 SWEP.Spawnable = true
 
@@ -28,7 +28,7 @@ SWEP.WeaponSelectIcon = NULL
 SWEP.Num = 1
 
 SWEP.Firemodes = {
-    MCV.FIREMODE_SEMI
+    MCV.FIREMODE_HE, MCV.FIREMODE_BUCKSHOT
 }
 
 SWEP.LastShotAnimation = false

@@ -90,7 +90,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 2.89
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "smg1"
 SWEP.Primary.ClipSize = 30
 SWEP.Primary.Chamber = 1
 SWEP.Primary.DefaultClip = 90
@@ -154,3 +154,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_assaultrifle_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 960 // m/s, original game stat

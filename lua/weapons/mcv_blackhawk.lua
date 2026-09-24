@@ -11,7 +11,7 @@ SWEP.PrintName = "Blackhawk"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "United States of America"
 SWEP.SubCategory = "Revolvers"
-SWEP.Caliber = "7.62x38mmR"
+SWEP.Caliber = ".357 Magnum"
 
 SWEP.Slot = 1
 SWEP.HoldType = "revolver"
@@ -161,3 +161,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_pistol_green_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 272 // m/s, original game stat

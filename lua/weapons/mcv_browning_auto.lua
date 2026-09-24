@@ -9,7 +9,7 @@ SWEP.PrintName = "Auto 5" -- no copyright infringe-erino mister artig!!!!!!!!!!!
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "United States of America"
 SWEP.SubCategory = "Shotguns"
-SWEP.Caliber = "12 Gauge Shell"
+SWEP.Caliber = "12 Gauge"
 
 SWEP.Slot = 2
 SWEP.SprintHoldType = "passive"

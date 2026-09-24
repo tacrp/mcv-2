@@ -7,7 +7,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Walther P38"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Nazi Germany"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Pistols"
 SWEP.Caliber = "9x19mm"
 

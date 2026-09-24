@@ -8,7 +8,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Karabiner 98K ZF39"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Nazi Germany"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Sniper Rifles"
 SWEP.Caliber = "7.92x57mm"
 
@@ -104,7 +104,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 4.1
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "357"
 SWEP.Primary.ClipSize = 5
 SWEP.Primary.Chamber = 0
 SWEP.Primary.DefaultClip = 20

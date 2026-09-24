@@ -11,7 +11,7 @@ SWEP.WorldModel = "models/weapons/mcv/w_xm16super.mdl"
 SWEP.BodyGroups = ""
 SWEP.WorldModelBodyGroups = ""
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "smg1"
 SWEP.Primary.ClipSize = 30
 SWEP.Primary.Chamber = 1
 SWEP.Primary.DefaultClip = 30

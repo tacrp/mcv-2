@@ -9,7 +9,7 @@ SWEP.PrintName = "MAT-49 Đặc Công"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "France"
 SWEP.SubCategory = "Submachine Guns"
-SWEP.Caliber = "7.62x25mm Tokarev"
+SWEP.Caliber = "9x19mm"
 
 SWEP.Slot = 2
 SWEP.SprintHoldType = "passive"

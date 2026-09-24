@@ -9,7 +9,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "MG 34 Double Drum"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Nazi Germany"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Light-Machine Guns"
 SWEP.Caliber = "7.92x57mm"
 
@@ -153,3 +153,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_machinegun_green_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 853 // m/s, original game stat

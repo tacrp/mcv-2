@@ -8,7 +8,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Karabiner 98K"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Nazi Germany"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Bolt-Action Rifles" -- classed as a carbine in MCV but putting it here to pad out the bolt actions category for our sake
 SWEP.Caliber = "7.92x57mm"
 
@@ -97,7 +97,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 3.7
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "357"
 SWEP.Primary.ClipSize = 5
 SWEP.Primary.Chamber = 0
 SWEP.Primary.DefaultClip = 40

@@ -39,6 +39,8 @@ SWEP.LastShotAnimation = false
 SWEP.MagInClip = false
 
 SWEP.ShootEntity = "mcv_proj_rpg"
+SWEP.ShootEntityForce = 144.8 / 0.0254
+SWEP.RocketGravity = 9.80665 / 0.0254
 SWEP.ShootForce = 5000
 
 // View slide from recoil
@@ -172,4 +174,15 @@ function SWEP:DeployAnimation()
         return self:PlayAnimation(ACT_VM_READY, 1, true)
     end
     return self.BaseClass.DeployAnimation(self)
+end
+
+function SWEP:ThinkWeapon()
+    baseclass.Get("mcv_base").ThinkWeapon(self)
+
+    // Keep the firing/throw-away animation intact, and retain the launcher if a
+    // replacement round is available. Only the server removes the inventory item.
+    if CLIENT or self:GetInfiniteAmmo() then return end
+    if self:Clip1() > 0 or self:Ammo1() > 0 then return end
+    if self:GetReloading() or self:StillWaiting() then return end
+    self:Remove()
 end

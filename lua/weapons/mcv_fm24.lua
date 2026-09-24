@@ -11,7 +11,7 @@ SWEP.PrintName = "FM 24/29"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "France"
 SWEP.SubCategory = "Light-Machine Guns"
-SWEP.Caliber = "7.62x51mm"
+SWEP.Caliber = "7.5x54mm"
 
 SWEP.Slot = 3
 
@@ -154,3 +154,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_machinegun_green_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 3
+
+SWEP.MuzzleVelocity = 735 // m/s, original game stat

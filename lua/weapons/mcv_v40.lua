@@ -9,7 +9,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "V-40 Mini Grenade"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "United States of America"
+SWEP.Country = "Netherlands"
 SWEP.SubCategory = "Grenades"
 
 SWEP.Slot = 4

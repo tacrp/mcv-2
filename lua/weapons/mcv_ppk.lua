@@ -9,7 +9,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Walther PPK"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "German Reich"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Pistols"
 SWEP.Caliber = ".380 ACP"
 
@@ -163,3 +163,5 @@ SWEP.TracerParticle2 = ""
 
 SWEP.TracerRandomness = 4
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 290 // m/s, original game stat

@@ -44,8 +44,7 @@ SWEP.RangeModifier = 0.955
 SWEP.Firemodes = {
     MCV.FIREMODE_AUTO,
     MCV.FIREMODE_SEMI,
-    MCV.FIREMODE_BURST,
-} -- has a three burst in MCV even though the real one didnt????? idk
+}
 
 // Weapon must be manually cycled
 SWEP.PlayCycleAnimation = false
@@ -93,7 +92,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 3.9
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "smg1"
 SWEP.Primary.ClipSize = 40
 SWEP.Primary.Chamber = 1
 SWEP.Primary.DefaultClip = 80

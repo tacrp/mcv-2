@@ -9,7 +9,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Shovel"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Nazi Germany"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Melee"
 
 SWEP.Slot = 0

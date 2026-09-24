@@ -9,7 +9,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Ruby"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Kingdom of Spain"
+SWEP.Country = "Spain"
 SWEP.SubCategory = "Pistols"
 SWEP.Caliber = ".32 ACP"
 
@@ -158,3 +158,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_pistol_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 2
+
+SWEP.MuzzleVelocity = 315 // m/s, original game stat

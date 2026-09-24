@@ -91,7 +91,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 4.25
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "smg1"
 SWEP.Primary.ClipSize = 20
 SWEP.Primary.Chamber = 1
 SWEP.Primary.DefaultClip = 80
@@ -161,3 +161,5 @@ SWEP.Secondary.Automatic = true
 SWEP.Secondary.ClipSize = 1
 SWEP.Secondary.Ammo = "smg1_grenade"
 SWEP.Secondary.DefaultClip = 1
+
+SWEP.MuzzleVelocity = 960 // m/s, original game stat

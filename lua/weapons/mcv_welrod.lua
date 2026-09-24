@@ -156,3 +156,5 @@ SWEP.TracerParticle2 = ""
 
 SWEP.TracerRandomness = 4
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 231 // m/s, original game stat

@@ -9,7 +9,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Luger P08"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "German Empire"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Pistols"
 SWEP.Caliber = "9x19mm"
 
@@ -157,3 +157,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_pistol_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 2
+
+SWEP.MuzzleVelocity = 318 // m/s, original game stat

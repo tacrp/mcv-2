@@ -1,4 +1,4 @@
-SWEP.Base = "mcv_base"
+SWEP.Base = "mcv_m79_base"
 
 SWEP.Spawnable = true
 
@@ -9,7 +9,7 @@ SWEP.PrintName = "M79 SOG"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "United States of America"
 SWEP.SubCategory = "Anti-Armor"
-SWEP.Caliber = "40x46mm Grenade"
+SWEP.Caliber = "40x46mm Buckshot"
 
 SWEP.Slot = 4
 SWEP.SprintHoldType = "passive"
@@ -35,7 +35,7 @@ SWEP.DamageArmMultiplier = 0.85
 SWEP.Num = 12
 
 SWEP.Firemodes = {
-    MCV.FIREMODE_SEMI
+    MCV.FIREMODE_BUCKSHOT, MCV.FIREMODE_HE
 }
 
 SWEP.LastShotAnimation = false
@@ -84,7 +84,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 3.5
 
-SWEP.Primary.Ammo = "smg1_grenade"
+SWEP.Primary.Ammo = "buckshot"
 SWEP.Primary.ClipSize = 1
 SWEP.Primary.Chamber = 0
 SWEP.Primary.DefaultClip = 2

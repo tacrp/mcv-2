@@ -9,7 +9,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Gewehr 43"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Nazi Germany"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Battle Rifles"
 SWEP.Caliber = "7.92x57mm"
 
@@ -154,3 +154,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_rifle_green_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 830 // m/s, original game stat

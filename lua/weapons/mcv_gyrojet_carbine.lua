@@ -11,7 +11,7 @@ SWEP.PrintName = "Gyrojet Carbine"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "United States of America"
 SWEP.SubCategory = "Carbines"
-SWEP.Caliber = "12 Gauge Shell"
+SWEP.Caliber = "13 mm Gyrojet rocket"
 
 SWEP.Slot = 3
 
@@ -91,7 +91,7 @@ SWEP.CrosshairDeltaDistance = 8
 
 SWEP.WeaponWeight = 2.6
 
-SWEP.Primary.Ammo = "buckshot"
+SWEP.Primary.Ammo = "pistol"
 SWEP.Primary.ClipSize = 6
 SWEP.Primary.Chamber = 0
 SWEP.Primary.DefaultClip = 12
@@ -156,3 +156,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_gyrojet_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 403 // m/s, original game stat

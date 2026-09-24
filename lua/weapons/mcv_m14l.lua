@@ -164,3 +164,5 @@ SWEP.Secondary.Automatic = true
 SWEP.Secondary.ClipSize = 1
 SWEP.Secondary.Ammo = "smg1_grenade"
 SWEP.Secondary.DefaultClip = 1
+
+SWEP.MuzzleVelocity = 850 // m/s, original game stat

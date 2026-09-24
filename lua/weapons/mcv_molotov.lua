@@ -26,7 +26,7 @@ SWEP.FuseModes = {0}
 SWEP.HasUnderhand = false
 
 SWEP.ExplosionDamage = 35
-SWEP.ExplosionRadius = 200
+SWEP.ExplosionRadius = 128
 
 SWEP.Primary.Ammo = "mcv_molotov"
 SWEP.Primary.ClipSize = -1

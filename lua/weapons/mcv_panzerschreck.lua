@@ -9,7 +9,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Panzerschreck"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Nazi Germany"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Anti-Armor"
 SWEP.Caliber = "Rocket"
 
@@ -48,7 +48,8 @@ SWEP.LastShotAnimation = false
 SWEP.HasEmptyReload = false
 SWEP.NoEjectOnShoot = true
 SWEP.ShootEntity = "mcv_proj_panzerschreck"
-SWEP.ShootEntityForce = 5000
+SWEP.ShootEntityForce = 110 / 0.0254
+SWEP.RocketGravity = 9.80665 / 0.0254
 SWEP.AmmoPerShot = 1
 
 // View slide from recoil

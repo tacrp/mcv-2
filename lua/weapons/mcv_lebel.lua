@@ -11,7 +11,7 @@ SWEP.PrintName = "MAS-M1892"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "France"
 SWEP.SubCategory = "Revolvers"
-SWEP.Caliber = ".38 Special"
+SWEP.Caliber = "8x27mmR French Ordnance"
 
 SWEP.Slot = 1
 SWEP.HoldType = "revolver"
@@ -163,3 +163,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_pistol_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 1
+
+SWEP.MuzzleVelocity = 231 // m/s, original game stat

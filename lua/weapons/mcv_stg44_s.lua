@@ -7,7 +7,7 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "StG-44 ZF4"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "Nazi Germany"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Assault Rifles"
 SWEP.Caliber = "7.92x33mm"
 
@@ -96,7 +96,7 @@ SWEP.CrosshairDeltaDistance = 4
 
 SWEP.WeaponWeight = 4.6
 
-SWEP.Primary.Ammo = "ar2"
+SWEP.Primary.Ammo = "smg1"
 SWEP.Primary.ClipSize = 20
 SWEP.Primary.Chamber = 1
 SWEP.Primary.DefaultClip = 100

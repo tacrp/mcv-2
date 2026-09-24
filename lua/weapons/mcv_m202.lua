@@ -51,6 +51,8 @@ SWEP.MagOutTime = 0
 SWEP.MagOutTimeEmpty = 0
 
 SWEP.ShootEntity = "mcv_proj_m202"
+SWEP.ShootEntityForce = 114 / 0.0254
+SWEP.RocketGravity = 9.80665 / 0.0254
 SWEP.ShootForce = 9000
 
 // View slide from recoil

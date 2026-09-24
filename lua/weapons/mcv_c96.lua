@@ -7,9 +7,9 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Mauser C96"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "German Empire"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Pistols"
-SWEP.Caliber = "7.63x25mm"
+SWEP.Caliber = "7.63x25mm Mauser"
 
 SWEP.Slot = 1
 SWEP.SprintHoldType = "normal"

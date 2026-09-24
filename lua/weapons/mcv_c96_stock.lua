@@ -9,9 +9,9 @@ AddCSLuaFile()
 // Names and basic information
 SWEP.PrintName = "Mauser C96"
 SWEP.Category = "Military Conflict: Vietnam"
-SWEP.Country = "German Empire"
+SWEP.Country = "Germany"
 SWEP.SubCategory = "Carbines"
-SWEP.Caliber = "7.62x25mm Tokarev"
+SWEP.Caliber = "7.63x25mm Mauser"
 
 SWEP.Slot = 3
 SWEP.SprintHoldType = "revolver"
@@ -155,3 +155,5 @@ SWEP.TracerParticle2 = "vietnam_tracer_pistol_green_secondary"
 
 SWEP.TracerRandomness = 6
 SWEP.TracerFrequency = 2
+
+SWEP.MuzzleVelocity = 329 // m/s, original game stat
