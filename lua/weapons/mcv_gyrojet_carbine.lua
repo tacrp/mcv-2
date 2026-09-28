@@ -35,7 +35,13 @@ SWEP.DamageArmMultiplier = 4
 
 SWEP.Num = 1
 
-SWEP.RangeModifier = 0.995
+SWEP.RangeModifier = 1
+// Deliberate gameplay curve: weak at the muzzle, strongest after 2000 HU.
+SWEP.DamageRampStart = 0.25
+SWEP.DamageRampEnd = 1.5
+SWEP.DamageRampDistance = 2000
+SWEP.BulletLaunchVelocity = 40 // m/s before the motor builds speed
+SWEP.BulletBoostTime = 0.2 // seconds to reach MuzzleVelocity without drag/gravity
 
 SWEP.Firemodes = {
     MCV.FIREMODE_SEMI

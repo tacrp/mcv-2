@@ -10,10 +10,10 @@ AddCSLuaFile()
 SWEP.PrintName = "M8 Flaregun"
 SWEP.Category = "Military Conflict: Vietnam"
 SWEP.Country = "United States of America"
-SWEP.SubCategory = "Pistols"
+SWEP.SubCategory = "Equipment"
 SWEP.Caliber = "26.5mm Flare"
 
-SWEP.Slot = 1
+SWEP.Slot = 4
 SWEP.HoldType = "pistol"
 SWEP.AimHoldType = "revolver"
 SWEP.SprintHoldType = "normal"

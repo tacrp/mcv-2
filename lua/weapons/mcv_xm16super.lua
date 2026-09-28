@@ -43,7 +43,7 @@ SWEP.MuzzleParticleIronsighted = "vietnam_muzzleflash_pistol_type2_fp_is"
 SWEP.MuzzleParticleIronsightedSmoke = "vietnam_muzzleflash_pistol_type2_fp_is_smoke"
 SWEP.MuzzleParticle3rdPerson = "vietnam_muzzleflash_pistol_type2_tp"
 SWEP.MuzzleFlashLightTexture = "effects/flashlight_muzzleflash_sl"
-SWEP.TracerParticle = ""
+SWEP.TracerParticle = "vietnam_tracer_silenced_primary"
 SWEP.TracerParticle2 = ""
 SWEP.ShootAnimRate = 0.5 // M16-M203 rifle-shot timing
 
